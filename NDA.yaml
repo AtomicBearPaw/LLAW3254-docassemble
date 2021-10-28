@@ -20,9 +20,9 @@ subquestion: |
   
   ii.	to declare all my interests that may conflict with the interests of any project partner, internship host, and/or projects related to LITE Lab that I am involved in and recuse myself from working on any such matters. 
 
-fields:
-  - Picture: signature
-    datatype: file
+signature: signature
+under: |
+  ${ name }
 ---
 question: This is your signed NDA form
 attachment:
